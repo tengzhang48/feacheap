@@ -1,13 +1,13 @@
 #!/bin/bash
 # ============================================================
-# build.sh ? Build EN234_FEA with gfortran
+# build.sh ? Build FEACHEAP with gfortran
 #
 # Handles Fortran module dependencies automatically via
 # multi-pass compilation: files are compiled repeatedly until
 # all succeed or no further progress is made.
 #
 # Usage:
-#   cd EN234_FEA/EN234_FEA
+#   cd /feacheap
 #   bash build.sh [debug|release]
 #
 # Default is release (-O2). Debug mode adds bounds checking.
