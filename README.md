@@ -202,7 +202,7 @@ See [FEACHEAP_GUIDE.md](FEACHEAP_GUIDE.md) for:
 
 ## Acknowledgments
 
-feacheap is built entirely on [Prof. Allan Bower](http://www.brown.edu/Departments/Engineering/Courses/En2340/)'s
+feacheap is built entirely on [Prof. Allan Bower](https://vivo.brown.edu/display/albower)'s
 EN234_FEA code. All solver design, element infrastructure, and Abaqus
 interface compatibility are his work.
 
