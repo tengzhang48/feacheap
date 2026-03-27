@@ -9,7 +9,7 @@ Code that works in feacheap runs in Abaqus without modification.
 ## History
 
 feacheap was originally developed as **EN234_FEA** by
-[Prof. Allan Bower](http://www.brown.edu/Departments/Engineering/Courses/En2340/)
+[Prof. Allan Bower](https://solidmechanics.org/)
 at Brown University for the graduate course EN234: Computational Methods in
 Structural and Solid Mechanics. Prof. Bower nicknamed the code "feacheap"
 (FEA, cheap) — a finite element solver that doesn't need an expensive license.
